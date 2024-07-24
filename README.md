@@ -24,12 +24,34 @@ I am a passionate Full Stack Software Engineer with a focus on C#, .NET, Azure, 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white)
 ![Lens](https://img.shields.io/badge/Lens-0091EA?style=for-the-badge&logo=lens&logoColor=white)
+![XUnit](https://img.shields.io/badge/XUnit-5C2D91?style=for-the-badge&logo=xunit&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+
+### Methodologies
+![Agile](https://img.shields.io/badge/Agile-61DAFB?style=for-the-badge&logo=agile&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-FFA500?style=for-the-badge&logo=scrum&logoColor=white)
+![TDD](https://img.shields.io/badge/TDD-61DAFB?style=for-the-badge&logo=tdd&logoColor=white)
+![DDD](https://img.shields.io/badge/DDD-4B8BBE?style=for-the-badge&logo=ddd&logoColor=white)
+
+### Design Patterns & Principles
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-FFB86C?style=for-the-badge&logo=design-patterns&logoColor=white)
+- ![Singleton](https://img.shields.io/badge/Singleton-FFB86C?style=flat-square)
+- ![Factory](https://img.shields.io/badge/Factory-FFB86C?style=flat-square)
+- ![Observer](https://img.shields.io/badge/Observer-FFB86C?style=flat-square)
+- ![Repository](https://img.shields.io/badge/Repository-FFB86C?style=flat-square)
+
+![Architectures](https://img.shields.io/badge/Architectures-FFB86C?style=for-the-badge&logo=architectures&logoColor=white)
+- ![Microservices](https://img.shields.io/badge/Microservices-FFB86C?style=flat-square)
+- ![MVC](https://img.shields.io/badge/MVC-FFB86C?style=flat-square)
+
+![S.O.L.I.D](https://img.shields.io/badge/SOLID-FFB86C?style=for-the-badge&logo=solid&logoColor=white)
 
 ## 📈 GitHub Stats
 
